@@ -1,0 +1,10 @@
+ .btn {
+     display: block;
+     text-align: center;
+ }
+ 
+ .btn-primary {
+     border: 1px solid;
+     background-color: #ddd;
+     color: white;
+ }
