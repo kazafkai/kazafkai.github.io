@@ -1,0 +1,19 @@
+.jumbotron {
+    height: 100vh;
+    background-image: url(https://source.unsplash.com/1400x800?food);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+}
+
+.thumbnail {
+    width: 100%;
+    margin: auto;
+}

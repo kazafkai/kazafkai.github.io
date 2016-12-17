@@ -1,0 +1,25 @@
+.row {
+    padding: 15px;
+}
+
+[class*="col-"] {
+    border: 1px solid #DDD;
+    padding: 15px;
+}
+
+.jumbotron>.container p {
+    width: 70%;
+    margin: auto;
+    margin-top: 5vh;
+}
+
+.thumbnail img {
+    display: flex;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+}
+
+.thumbnail h3~p {
+    margin-top: 5px;
+}
