@@ -18,6 +18,7 @@
     max-width: 500px;
     width: 100%;
     margin: auto;
+    cursor: zoom-in;
 }
 
 .thumbnail h3~p {
